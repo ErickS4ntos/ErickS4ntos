@@ -16,6 +16,9 @@ My name is Erick Santos, I'm 19 years old and studying Analysis and Systems Deve
           
 <div><a href="https://github.com/ErickS4ntos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickS4ntos&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickS4ntos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
           
+![Snake animation](https://github.com/ErickS4ntos/ErickS4ntos/blob/output/github-contribution-grid-snake.svg)
+
+          
 ## Contacts:
 <div><a href="mailto:erick.ssmkt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/erick-santos-9b3328209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
          
