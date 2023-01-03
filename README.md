@@ -14,7 +14,7 @@ My name is Erick Santos, I'm 19 years old and studying Analysis and Systems Deve
 ## I'm going to study
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
           
-<div><a href="https://github.com/ErickS4ntos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickS4ntos&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickS4ntos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+<div><a href="https://github.com/ErickS4ntos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickS4ntos&layout=compact&langs_count=7&theme=dracula"/></div>
           
 ![Snake animation](https://github.com/ErickS4ntos/ErickS4ntos/blob/output/github-contribution-grid-snake.svg)
 
