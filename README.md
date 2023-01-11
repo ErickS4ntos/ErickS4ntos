@@ -16,7 +16,7 @@ My name is Erick Santos, I'm 19 years old and studying Analysis and Systems Deve
           
 <div><a href="https://github.com/ErickS4ntos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickS4ntos&layout=compact&langs_count=7&theme=dracula"/></div>
           
-##
+
 
           
 ## Contacts:
